@@ -3,19 +3,23 @@ body {
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-Discord{
+.discord{
     color: darkblue;
 }
-Youtube{
+.youtube{
     color: red;
 }
-Twitch{
+.twitch{
     color: blueviolet;
 
 }
-Instagram{
+.instagram{
     color: #dd2a7b;
 }
-Donate{
+.donate{
     color: lime;
+}
+
+li {
+    text-decoration: none;
 }

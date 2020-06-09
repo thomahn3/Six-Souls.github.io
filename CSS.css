@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+Discord{
+    color: darkblue;
+}
+Youtube{
+    color: red;
+}
+Twitch{
+    color: blueviolet;
+
+}
+Instagram{
+    color: #dd2a7b;
+}
+Donate{
+    color: lime;
+}

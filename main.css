@@ -1,0 +1,64 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+a {
+    color: inherit;
+    /* Removes the default color from all links */
+    text-decoration: none;
+    /* Removes the default underline from all links */
+}
+
+.socials {
+    list-style: none;
+    text-decoration: none;
+    padding: 0 0 2px 0;
+    margin: 0 0 9px 35px;
+}
+
+.discord {
+    border-bottom: 2px solid purple;
+}
+
+.youtube {
+    border-bottom: 2px solid red;
+}
+
+.twitch {
+    border-bottom: 2px solid purple;
+}
+
+.instagram {
+    border-bottom: 2px solid #dd2a7b;
+}
+
+.streamlabs {
+    border-bottom: 2px solid lime;
+}
+
+/*
+
+a {
+    color: #f0f0f5;
+    text-decoration: none;
+    border-bottom: 2px solid #05A4EC;
+    padding: 0 0 2px;
+  }
+  
+  a:visited {
+    color: #f0f0f5;
+  }
+  
+  a:hover{
+    color: #05A4EC;
+  }
+  
+  a:active {
+    color: #05A4EC;
+  }
+  
+  li.a {
+    margin: 0 0 9px;
+  }
